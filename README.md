@@ -67,17 +67,6 @@ The amplifier was tested for various parameters, and the following results were 
 - **Output Resistance**: 8.0108 Ω
 - **Power Dissipation**: 2.4 W
 
-## Individual Contributions
-
-- **Maduwantha L.H.H**: PCB design, Component selection
-- **Dimagi D.H.P.**: Enclosure design, Breadboard implementation
-- **Dissanayaka D.M.P.C.**: Enclosure design, Soldering PCB, Breadboard implementation
-- **Dilshan N.L.**: Circuit design, Simulation in Proteus
-
-## Conclusion
-
-The project was successfully completed within the given timeframe. Despite some minor issues with the bandwidth and waveform distortion, the amplifier meets most of the design requirements and performs effectively for the intended application.
-
 ## Setup and Usage
 
 ### Prerequisites
