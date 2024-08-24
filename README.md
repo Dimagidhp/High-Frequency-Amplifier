@@ -35,7 +35,7 @@ A physical prototype was built and tested using the following steps:
 - **Breadboard Implementation**: Initial testing and verification of circuit functionality
 - **PCB Design**: The circuit was designed using Altium software, with components soldered onto the PCB after screen printing
 - **Enclosure**: Designed using SolidWorks with a perforated cover for heat dissipation, made from PLA+ material for eco-friendliness
-<img src="https://github.com/user-attachments/assets/530d6c1f-94f1-4a71-b90a-879a0c6e8f76" alt="Description" width="300" height="200">
+<img src="https://github.com/user-attachments/assets/9c1adf53-55f9-4d36-8a15-ecfb0872ccb9" alt="Description" width="450" height="300">
 
 
 ### Components and Equipment
